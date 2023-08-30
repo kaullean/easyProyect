@@ -1,0 +1,5 @@
+com\easyProyect\pojo\Producto.class
+com\easyProyect\controller\ListadoController.class
+com\easyProyect\connection\AdministradorDeConexiones.class
+com\easyProyect\dao\ProductoDAO.class
+com\easyProyect\controller\DeleteController.class
